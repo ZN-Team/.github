@@ -24,4 +24,4 @@ Together, we are committed to delivering high-quality, performant components tha
 
 ### 📄 Installation instructions
 
-For more detailed setup instructions, see the [Setup Instructions](https://github.com/ZN-Team/.github/main/aoh-response/web_instructions.md) file.
+For more detailed setup instructions, see the [Setup Instructions](https://github.com/ZN-Team/.github/blob/main/aoh-response/web_instructions.md) file.
