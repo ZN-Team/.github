@@ -4,10 +4,7 @@ Welcome to the ZN Team's official onboarding wiki! This repository is designed t
 
 ## 🛠️ Projects
 
-### 1. AOH Response
-
-- **Web Application**: [AOH Response Web](https://github.com/DS-MSS-MARS/ar2-web)
-- **Mobile Application**: [Responder App](https://github.com/DS-MSS-MARS/responder-app)
+[### 1. AOH Response](https://github.com/ZN-Team/.github/main/aoh-response/introduction.md)
 
 AOH Response is a critical project focused on ensuring timely and efficient response in emergency situations. The web and mobile applications work together to provide real-time updates, communication, and coordination among first responders.
 
@@ -22,10 +19,10 @@ OBS (Operational Business System) is designed to streamline operations and impro
 
 Here’s a quick introduction to our team members. Feel free to reach out to any of us if you have questions or need assistance.
 
-| ![Lai Zhen Nan (James)](https://via.placeholder.com/150) | **Lai Zhen Nan (James)** <br> Product Manager <br> laizn@stengg.com |
+| ![Lai Zhen Nan (James)](https://github.com/ZN-Team/.github/blob/36e823a225cb98b4840bc6023d2532e4fe617333/img/zn.jpg) | **Lai Zhen Nan (James)** <br> Product Manager <br> laizn@stengg.com |
 |:--------------------------------------------------------:|:-----------------------------------------------------------------:|
-| ![Thu Diep (Jun)](https://via.placeholder.com/150)       | **Thu Diep (Jun)** <br> ZN Team Leader in VCC <br> lamminhthu.diep@stengg.com |
-| ![Nhan Nguyen (Edward)](https://via.placeholder.com/150) | **Nhan Nguyen (Edward)** <br> Software Engineer <br> trinhan.nguyen@stengg.com |
+| ![Thu Diep (Jun)](https://github.com/ZN-Team/.github/blob/36e823a225cb98b4840bc6023d2532e4fe617333/img/jun.jpg)       | **Thu Diep (Jun)** <br> ZN Team Leader in VCC <br> lamminhthu.diep@stengg.com |
+| ![Nhan Nguyen (Edward)](https://github.com/ZN-Team/.github/raw/main/img/edward.jpg) | **Nhan Nguyen (Edward)** <br> Software Engineer <br> trinhan.nguyen@stengg.com |
 
 ## 🚀 Getting Started
 

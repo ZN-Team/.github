@@ -1,7 +1,3 @@
-Here’s a setup instruction guide for the `ar2-web` project based on the provided `package.json` and your additional details:
-
----
-
 # AR2 Web Setup Guide
 
 Welcome to the setup guide for the **AR2 Web** project. Follow these instructions to get the project up and running on your local machine.
@@ -81,7 +77,17 @@ This command will concurrently start the development server and unit tests, allo
 npm run dev:notest
 ```
 
-## 7. Building the Project
+## 7. **If You're Feeling Lazy**
+
+If you prefer a more automated setup and you're using macOS, you can simply run:
+
+```bash
+npm run lazy-glenn
+```
+
+This command will clean up the environment, generate the schema, generate the code, and start the development server all in one go.
+
+## 8. Building the Project
 
 When you are ready to build the project for production, use the following command:
 
@@ -91,7 +97,7 @@ npm run build
 
 This will generate the production-ready files in the `dist` directory.
 
-## 8. Running Tests
+## 9. Running Tests
 
 The project includes several test scripts:
 
@@ -114,7 +120,7 @@ To run all tests at once:
 npm run test
 ```
 
-## 9. Preview the Build
+## 10. Preview the Build
 
 To preview the production build, run:
 
@@ -124,7 +130,7 @@ npm run preview
 
 This will start a local server that serves the built files.
 
-## 10. Clean Up Generated Files
+## 11. Clean Up Generated Files
 
 If you need to clean up generated files, you can use:
 
@@ -138,6 +144,6 @@ This command will remove all generated files from the `src/generated` directory.
 
 You’re all set! If you encounter any issues or need further assistance, feel free to reach out to the project maintainers.
 
---- 
+---
 
-This setup guide should help you get started with the AR2 Web project efficiently. Let me know if you need any more details or modifications!
+This guide now includes a shortcut for those who prefer to automate the setup process. Let me know if there's anything else you need!
